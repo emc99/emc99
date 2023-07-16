@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emc99
 - 👀 I’m interested in bitcoin and related open-source projects
-- 🌱 I’m currently learning how to write effectively
+- 🌱 I’m currently learning how to code C++ effectively
 - 💞️ I’m looking to collaborate on bitcoin core
 - 📫 My DMs are open
 
